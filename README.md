@@ -15,4 +15,5 @@ Here are the steps
 1. Go to [this website](https://github.com/Quartz-Tech-Network/Axolotl-Games/fork).
 2. Change the name to whatever you want
 3. If you want to add any more games, make sure you put the category too.
-4. 
+4. Click "Create Repository"
+5. And you are done!
