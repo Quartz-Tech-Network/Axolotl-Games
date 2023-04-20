@@ -22,4 +22,5 @@ Here are the steps
 
 [Click Here](https://github.com/Quartz-Tech-Network/Axolotl-Games/issues/new) to make a new issue.
 Keep in mind that if you are asking a question, add a label called "question". Like this,
-https://user-images.githubusercontent.com/63011256/233478521-4031edcc-2e2a-4e76-8711-70d27ce264f4.mp4
+<video src="https://user-images.githubusercontent.com/63011256/233478521-4031edcc-2e2a-4e76-8711-70d27ce264f4.mp4" controls="controls" style="max-width: 730px;">
+</video>
