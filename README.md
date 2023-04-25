@@ -29,6 +29,4 @@ Keep in mind that if you are asking a question, add a label called "question". L
 
 Here are some ways to deploy this site easily,
 
-[![Deploy with Vercel](https://vercel.com/button)](https://github.com/Quartz-Tech-Network/Axolotl-Games) ![Deploy to Github Pages](https://user-images.githubusercontent.com/63011256/234142369-3cabcdc9-8d59-4c8b-a68e-8576ba77861d.png)
-
-
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/Quartz-Tech-Network/Axolotl-Games) [![Deploy to Github](https://user-images.githubusercontent.com/63011256/234143122-3640ade1-233a-4752-8772-2ab25356b3a0.png)]()
