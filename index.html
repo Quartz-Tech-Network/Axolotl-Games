@@ -2,83 +2,85 @@
 <html>
  <head>
   <title>Axolotl Games</title>
-   <style>
-    /*h1 style for title*/
-    h1 {
-         --s: 0.1em;   /* the thickness of the line */
-         --c: #2c4bff; /* the color */
+  <link rel="icon" type="image/x-icon" href="images/Untitled design (1)-modified.png">
+  <style>
+   /*h1 style for title*/
+   h1 {
+        --s: 0.1em;   /* the thickness of the line */
+        --c: #2c4bff; /* the color */
 
-         color: #FFFFFF;
-         padding-bottom: var(--s);
-         background: 
-           linear-gradient(90deg,var(--c) 50%,#000 0) calc(100% - var(--_p,0%))/200% 100%,
-           linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) var(--s) no-repeat;
-         -webkit-background-clip: text,padding-box;
-                 background-clip: text,padding-box;
-         transition: 0.45s;
+        color: #FFFFFF;
+        padding-bottom: var(--s);
+        background: 
+          linear-gradient(90deg,var(--c) 50%,#000 0) calc(100% - var(--_p,0%))/200% 100%,
+          linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) var(--s) no-repeat;
+        -webkit-background-clip: text,padding-box;
+                background-clip: text,padding-box;
+        transition: 0.45s;
+      }
+   h1:hover {--_p: 100%}
+
+
+   body {
+     height: 100vh;
+     margin: 0;
+     display: grid;
+     place-content: center;
        }
-    h1:hover {--_p: 100%}
+   h1 {
+     font-family: system-ui, sans-serif;
+     font-size: 5rem;
+     text-align: center;
+     cursor: pointer;
+   }
+   /* h2 style for subitle*/
+   h2 {
+     --s: 0.1em;   /* the thickness of the line */
+     --c: #2c4bff; /* the color */
 
+     color: #FFFFFF;
+     padding-bottom: var(--s);
+     background: 
+       linear-gradient(90deg,var(--c) 50%,#000 0) calc(100% - var(--_p,0%))/200% 100%,
+       linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) var(--s) no-repeat;
+     -webkit-background-clip: text,padding-box;
+             background-clip: text,padding-box;
+     transition: 0.45s;
+   }
+   h2:hover {--_p: 100%}
 
-    body {
-      height: 100vh;
-      margin: 0;
-      display: grid;
-      place-content: center;
-        }
-    h1 {
-      font-family: system-ui, sans-serif;
-      font-size: 5rem;
-      text-align: center;
-      cursor: pointer;
-    }
-    /* h2 style for subitle*/
-    h2 {
-      --s: 0.1em;   /* the thickness of the line */
-      --c: #2c4bff; /* the color */
+   h2 {
+     font-family: system-ui, sans-serif;
+     font-size: 2rem;
+     text-align: center;
+     cursor: pointer;
+   }
+   a:link, a:visited {
+     background-color: #2b2a2a;
+     color: white;
+     border: 2px solid lime;
+     padding: 10px 20px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-family: monospace
+   }
 
-      color: #FFFFFF;
-      padding-bottom: var(--s);
-      background: 
-        linear-gradient(90deg,var(--c) 50%,#000 0) calc(100% - var(--_p,0%))/200% 100%,
-        linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) var(--s) no-repeat;
-      -webkit-background-clip: text,padding-box;
-              background-clip: text,padding-box;
-      transition: 0.45s;
-    }
-    h2:hover {--_p: 100%}
-    
-    h2 {
-      font-family: system-ui, sans-serif;
-      font-size: 2rem;
-      text-align: center;
-      cursor: pointer;
-    }
-    a:link, a:visited {
-      background-color: #2b2a2a;
-      color: white;
-      border: 2px solid lime;
-      padding: 10px 20px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
-      font-family: monospace
-    }
-
-    a:hover, a:active {
-      background-color: gray;
-      color: white;
-      font-family: monospace
-    }
- </style>
+   a:hover, a:active {
+     background-color: gray;
+     color: white;
+     font-family: monospace
+   }
+  </style>
  </head>
  <body bgcolor="#2b2a2a">
-   <h1>Unblocked Games</h1> <h2>Built by Decky12582</h2>
-   <p style="font-family: monospace; font-size: 4rem; text-align: center; color: white">
-   Choose a Game Below!
-   </p>
-   <br><br><br>
-   <a href="html/3d-tanks.html" target="_blank">3D-Tanks</a>
-   <a href="escape/fishermanisland/" target="_blank">Escape Fisherman Island</a>
-   <a href="2playergames/basket-random/" target="_blank">Basket Random</a>
+
+  <h1>Unblocked Games</h1> <h2>Built by Decky12582</h2>
+  <p style="font-family: monospace; font-size: 4rem; text-align: center; color: white">
+  Choose a Game Below!
+  </p>
+  <br><br><br>
+  <a href="html/3d-tanks.html" target="_blank">3D-Tanks</a>
+  <a href="escape/fishermanisland/" target="_blank">Escape Fisherman Island</a>
+  <a href="2playergames/basket-random/" target="_blank">Basket Random</a>
  </body>
