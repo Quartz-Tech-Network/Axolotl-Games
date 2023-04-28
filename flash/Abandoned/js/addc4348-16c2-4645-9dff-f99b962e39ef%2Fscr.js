@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function(){
   div.id = 'button';
   div.className = 'imgb';
   div.style = 'position:fixed;top:10%;left:-100px;z-index:10';
-  div.innerHTML = '<a target="_blank" href="https://sites.google.com/view/classroom6x/" title="More of best Unblocked Games"><img src="https://lh4.googleusercontent.com/lUEWrXMVEr4AdjKISyJahDRJ61bwfvHdpeYm86Djn5U8oCm9dI60NGXSBqad9HUvzTXgqlkosA_hWV-VuXPjzrkGvh3_kNSgYk8ySWzXnDpbBCBiooyBbU8oBy3YBZMDkW8RcRVmDuC0raoeqZBm8kBlqs6c5mdfkJeN2aE68lXS_lcOZ5_F7lIuM6qLVg" width="100" height="30" style="cursor:pointer;" alt="More Unblocked Games"></a>';
+  div.innerHTML = '<a target="_blank" href="https://quartz-tech-network.github.io/Axolotl-Games/" title="More of best Unblocked Games"><img src="https://lh4.googleusercontent.com/lUEWrXMVEr4AdjKISyJahDRJ61bwfvHdpeYm86Djn5U8oCm9dI60NGXSBqad9HUvzTXgqlkosA_hWV-VuXPjzrkGvh3_kNSgYk8ySWzXnDpbBCBiooyBbU8oBy3YBZMDkW8RcRVmDuC0raoeqZBm8kBlqs6c5mdfkJeN2aE68lXS_lcOZ5_F7lIuM6qLVg" width="100" height="30" style="cursor:pointer;" alt="More Unblocked Games"></a>';
   document.body.appendChild(div);
 
   var image = document.getElementById('button');
